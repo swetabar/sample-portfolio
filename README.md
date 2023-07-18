@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--sample-portfolio--swetabar.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
